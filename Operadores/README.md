@@ -10,3 +10,6 @@
 
 
  - Retorne uma string dizendo "Os números num1 e num2 não/são iguais. Sua soma é soma, que é maior/menor que 10 e maior/menor que 20".
+
+#Observações
+ - Nesse exercicio so se foi alterado o arquivo script.js, usado para testes no console.
